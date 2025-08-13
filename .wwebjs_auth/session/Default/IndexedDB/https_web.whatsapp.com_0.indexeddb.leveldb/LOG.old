@@ -1,0 +1,37 @@
+2025/08/10-21:32:27.296 4200 Reusing MANIFEST C:\xampp2\htdocs\TareasChidas\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/10-21:32:27.305 4200 Recovering log #169
+2025/08/10-21:32:27.454 4200 Reusing old log C:\xampp2\htdocs\TareasChidas\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000169.log 
+2025/08/10-21:32:32.928 1d68 Level-0 table #179: started
+2025/08/10-21:32:32.949 1d68 Level-0 table #179: 1149206 bytes OK
+2025/08/10-21:32:32.950 1d68 Delete type=0 #169
+2025/08/10-21:32:32.951 1d68 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/10-21:32:34.835 8584 Compacting 1@1 + 6@2 files
+2025/08/10-21:32:34.897 8584 Generated table #180@1: 36244 keys, 2208945 bytes
+2025/08/10-21:32:34.923 8584 Generated table #181@1: 3027 keys, 2161932 bytes
+2025/08/10-21:32:34.954 8584 Generated table #182@1: 3390 keys, 2158630 bytes
+2025/08/10-21:32:35.012 8584 Generated table #183@1: 28844 keys, 2255811 bytes
+2025/08/10-21:32:35.062 8584 Generated table #184@1: 39109 keys, 2195412 bytes
+2025/08/10-21:32:35.177 8584 Generated table #185@1: 100646 keys, 2252806 bytes
+2025/08/10-21:32:35.180 8584 Generated table #186@1: 924 keys, 22012 bytes
+2025/08/10-21:32:35.180 8584 Compacted 1@1 + 6@2 files => 13255548 bytes
+2025/08/10-21:32:35.181 8584 compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/08/10-21:32:35.181 8584 Delete type=2 #171
+2025/08/10-21:32:35.181 8584 Delete type=2 #172
+2025/08/10-21:32:35.181 8584 Delete type=2 #173
+2025/08/10-21:32:35.181 8584 Delete type=2 #174
+2025/08/10-21:32:35.181 8584 Delete type=2 #175
+2025/08/10-21:32:35.181 8584 Delete type=2 #176
+2025/08/10-21:32:35.181 8584 Delete type=2 #179
+2025/08/10-21:32:41.331 9a24 Level-0 table #188: started
+2025/08/10-21:32:41.356 9a24 Level-0 table #188: 1149432 bytes OK
+2025/08/10-21:32:41.356 9a24 Delete type=0 #178
+2025/08/10-21:32:41.360 9a24 Compacting 1@1 + 7@2 files
+2025/08/10-21:32:41.427 9a24 Generated table #189@1: 42315 keys, 2213908 bytes
+2025/08/10-21:32:41.454 9a24 Generated table #190@1: 2912 keys, 2161307 bytes
+2025/08/10-21:32:41.480 9a24 Generated table #191@1: 3346 keys, 2159042 bytes
+2025/08/10-21:32:41.543 9a24 Generated table #192@1: 27017 keys, 2249994 bytes
+2025/08/10-21:32:41.598 9a24 Generated table #193@1: 32617 keys, 2195090 bytes
+2025/08/10-21:32:41.692 9a24 Generated table #194@1: 100722 keys, 2251190 bytes
+2025/08/10-21:32:41.704 9a24 Generated table #195@1: 10046 keys, 226393 bytes
+2025/08/10-21:32:41.704 9a24 Compacted 1@1 + 7@2 files => 13456924 bytes
+2025/08/10-21:32:41.704 9a24 compacted to: files[ 0 0 7 0 0 0 0 ]
